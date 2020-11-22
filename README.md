@@ -3,8 +3,8 @@ Simple TCP messaging through sockets
 >NOTE! : This is not encrypted, encrypted version using strong algorithm coming soon..
 
 ![pic1](https://i.ibb.co/3WsZvfF/Screenshot-from-2020-11-22-14-11-32.png "Picture1")
+![pic2](https://i.ibb.co/ZVwdCq0/Screenshot-from-2020-11-22-14-12-14.png "Picture2")
 
-[pic2]https://i.ibb.co/ZVwdCq0/Screenshot-from-2020-11-22-14-12-14.png "Picture2"
 
 
 ### server.py
